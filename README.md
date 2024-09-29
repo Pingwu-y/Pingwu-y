@@ -11,10 +11,11 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
      
-<strong>Hi, I am Jiahao Yao!👋 </strong>
+Hi, I am Jiahao Yao!👋
 
-<strong>A student major in Computer Science💻 from China. </strong>
-</pre> 
+An undergraduate🎓 in [@SJTU-CSE](https://github.com/SJTU-CSE).
+</pre>
+
 
 
 ### ⚡️ &nbsp;Github Stats
