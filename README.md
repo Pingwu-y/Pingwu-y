@@ -13,7 +13,7 @@
      
 Hi, I am Jiahao Yao!👋
 
-An undergraduate🎓 in [SJTU-CSE](https://github.com/SJTU-CSE)
+An undergraduate🎓 in SJTU majoring in CS.
 </pre>
 
 
